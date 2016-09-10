@@ -1,7 +1,7 @@
 # .clang-format
 .clang-format文件，Xcode自定义代码格式化样式文件。
 
-文件内容如下，也可以自己修改。具体讲解可以看我在简书上写的[这篇文章]()。
+文件内容如下，也可以自己修改。具体讲解可以看我在简书上写的[这篇文章](http://www.jianshu.com/p/a725e24d7835)。
 ```
 # 基于LLVM样式
 BasedOnStyle: LLVM
