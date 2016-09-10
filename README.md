@@ -6,11 +6,11 @@
 # 基于LLVM样式
 BasedOnStyle: LLVM
 
-# 连续的赋值操作按=对齐
-AlignConsecutiveAssignments: true
+# 连续的赋值操作按=对齐，看自己喜好打开。
+#AlignConsecutiveAssignments: true
 
-# 把连续行的变量名对齐
-AlignConsecutiveDeclarations: true
+# 把连续行的变量名对齐，看自己喜好打开。
+#AlignConsecutiveDeclarations: true
 
 # 对齐尾部注释
 AlignTrailingComments: true
@@ -41,5 +41,4 @@ SpacesBeforeTrailingComments: 1
 
 # 在<后边和>前边插入空格
 SpacesInAngles: true
-
 ```
